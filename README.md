@@ -12,7 +12,7 @@ Supports Laravel 5.5.29+.
 
 ## Installation
 
-    composer require staudenmeir/eloquent-has-many-deep
+    composer require hamid09430/direct-nested-relation-object:1.1
 
 ## Usage
 
