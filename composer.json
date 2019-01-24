@@ -1,5 +1,5 @@
 {
-    "name": "staudenmeir/eloquent-has-many-deep",
+    "name": "hamid09430/Direct-Nested-Relation-Object",
     "description": "Laravel Eloquent HasManyThrough relationship with unlimited levels",
     "license": "MIT",
     "authors": [
